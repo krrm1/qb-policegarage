@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'Made By ArabCdoingTeam'
+description 'Made By krrm1'
 
 client_scripts {
 	'client/main.lua',
